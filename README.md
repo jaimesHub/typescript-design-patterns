@@ -23,3 +23,8 @@
 - Implementation: `https://cloudaffle.com/series/object-oriented-typescript/abstraction-in-typescript/`
 - Real example: `https://cloudaffle.com/series/object-oriented-typescript/abstraction-in-typescript/#real-world-example`
 - Real world Use case: `TypeORM` - `https://cloudaffle.com/series/object-oriented-typescript/abstraction-example/`
+- Advantages / Why use it?: `https://cloudaffle.com/series/object-oriented-typescript/abstraction-example/#why-use-abstraction-`
+- Questions:
+    - What is the `primary` goal of abstraction in Object-Oriented Programming?
+    - Why is abstraction important in large codebase?
+    - Which of the following is NOT an advantage of abstraction? (Easier maintenance, Improved code reusability, Increased Complexity, Better code organization)
