@@ -13,3 +13,7 @@
 - Keywords
     - OOP Paradigm (around Objects)
     - Other programming paradigms
+
+## OOP: Lingo
+- Who Is The User Of The Class?
+- An Interface
