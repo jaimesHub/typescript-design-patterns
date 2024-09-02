@@ -38,8 +38,25 @@ function calculateTotalArea(shape: Shape): number {
 }
 
 // client code
-let circle: Circle = new Circle(5);
-let rectangle: Rectangle = new Rectangle(4, 6);
+// let circle: Circle = new Circle(5);
+// let rectangle: Rectangle = new Rectangle(4, 6);
 
-console.log("Area of Circle: ", calculateTotalArea(circle));
-console.log("Area of Rectangle: ", calculateTotalArea(rectangle));
+// console.log("Area of Circle: ", calculateTotalArea(circle));
+// console.log("Area of Rectangle: ", calculateTotalArea(rectangle));
+
+// Real world example
+// Date class
+const today: Date = new Date();
+console.log("Today: ", today);
+
+// Get current year
+const currentYear: number = today.getFullYear(); // don't have to worry about the underlying logic.
+console.log("Current Year: ", currentYear);
+
+// Get current month
+const currentMonth: number = today.getMonth();
+console.log("Current Month: ", currentMonth + 1); // don't have to worry about the underlying logic.
+
+// Get current day
+const currentDay: number = today.getDate(); // don't have to worry about the underlying logic.
+console.log("Current Day: ", currentDay);

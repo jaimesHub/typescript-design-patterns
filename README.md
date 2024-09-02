@@ -21,3 +21,4 @@
 ## OOP: Abstraction
 - What ?
 - Implementation: `https://cloudaffle.com/series/object-oriented-typescript/abstraction-in-typescript/`
+- Real example: `https://cloudaffle.com/series/object-oriented-typescript/abstraction-in-typescript/#real-world-example`
