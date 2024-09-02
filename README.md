@@ -17,3 +17,7 @@
 ## OOP: Lingo
 - Who Is The User Of The Class?
 - An Interface
+
+## OOP: Abstraction
+- What ?
+- Implementation: `https://cloudaffle.com/series/object-oriented-typescript/abstraction-in-typescript/`
